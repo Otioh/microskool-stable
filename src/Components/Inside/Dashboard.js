@@ -1,5 +1,5 @@
 import React, { useContext, useEffect} from 'react';
-import MicroskoolIcon from '/xampp/htdocs/microskool-stable/src/ImageResources/micro.png';
+import MicroskoolIcon from '/Users/Erim/Documents/GitHub/microskool-stable/src/ImageResources/micro.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faHome,  faArrowCircleLeft, faArrowCircleRight, 
      faBookOpenReader, faGear, faUser, faComputer, faList,faGamepad,

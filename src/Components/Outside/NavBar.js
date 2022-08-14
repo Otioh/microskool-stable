@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import MicroskoolIcon from '/xampp/htdocs/microskool-stable/src/ImageResources/micro.png';
+import MicroskoolIcon from '/Users/Erim/Documents/GitHub/microskool-stable/src/ImageResources/micro.png';
 
 function NavBar() {
   return (

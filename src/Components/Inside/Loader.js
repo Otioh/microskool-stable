@@ -1,5 +1,5 @@
 import React from 'react';
-import MicroskoolIcon from '/xampp/htdocs/microskool-stable/src/ImageResources/micro.png';
+import MicroskoolIcon from '/Users/Erim/Documents/GitHub/microskool-stable/src/ImageResources/micro.png';
 
 function Loader() {
   return (
